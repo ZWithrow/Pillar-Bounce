@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+Pillar-Bounce/[Ll]ibrary/
+Pillar-Bounce/[Tt]emp/
+Pillar-Bounce/[Oo]bj/
+Pillar-Bounce/[Bb]uild/
+Pillar-Bounce/[Bb]uilds/
+Pillar-Bounce/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/

@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/PillarBounceUnity.unity
+  isLoaded: 1
+  isActive: 1
